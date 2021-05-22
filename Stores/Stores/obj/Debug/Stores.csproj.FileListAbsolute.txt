@@ -1,0 +1,45 @@
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\bin\Debug\Stores.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Views.Frm_Bill.resources
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Views.Frm_Clint.resources
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Views.Frm_Prodact.resources
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Views.Frm_Report.resources
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\bin\Debug\Stores.exe
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\bin\Debug\Stores.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.exe
+c:\users\hp\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Stores\Stores\obj\Debug\Stores.Views.Frm_Suplier.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.csprojAssemblyReference.cache
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Properties.Resources.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Bill.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Prodact.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Report.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Suplier.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.csproj.GenerateResource.cache
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.csproj.CoreCompileInputs.cache
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.exe
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.pdb
+E:\cs\vs2015\Stores\Stores\bin\Debug\Stores.exe.config
+E:\cs\vs2015\Stores\Stores\bin\Debug\Stores.exe
+E:\cs\vs2015\Stores\Stores\bin\Debug\Stores.pdb
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Login.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_main.resources
+E:\cs\vs2015\Stores\Stores\obj\Debug\Stores.Views.Frm_Setting.resources
+C:\Users\roaa\Desktop\Stores\Stores\bin\Debug\Stores.exe.config
+C:\Users\roaa\Desktop\Stores\Stores\bin\Debug\Stores.exe
+C:\Users\roaa\Desktop\Stores\Stores\bin\Debug\Stores.pdb
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.csprojAssemblyReference.cache
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Properties.Resources.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Bill.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Login.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_main.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Prodact.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Report.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Setting.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.Views.Frm_Suplier.resources
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.csproj.GenerateResource.cache
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.csproj.CoreCompileInputs.cache
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.exe
+C:\Users\roaa\Desktop\Stores\Stores\obj\Debug\Stores.pdb
